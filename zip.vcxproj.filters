@@ -1,27 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\projects\zip-master\src\zip.c">
+    <ClCompile Include="src\zip.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\projects\zip-master\src\miniz.h">
+    <ClInclude Include="src\miniz.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\projects\zip-master\src\zip.h">
+    <ClInclude Include="D:\projects\zip\src\zip.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <CustomBuild Include="D:\projects\zip-master\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{0765EAB6-E455-3F67-AF35-22577210CF4C}</UniqueIdentifier>
+      <UniqueIdentifier>{4871BB61-6154-3614-AA3C-1DA26F9A47CA}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{60D14EFD-D602-3CC3-9F18-CAE2A3355287}</UniqueIdentifier>
+      <UniqueIdentifier>{B4F56A1A-5CAE-3585-B4F4-8E0386CA6D81}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
